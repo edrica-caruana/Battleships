@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1043468518434",
+    "firebase_url": "https://battleshipsproject-915a4-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "battleshipsproject-915a4",
+    "storage_bucket": "battleshipsproject-915a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043468518434:android:72dc7cccd47577d473f67b",
+        "android_client_info": {
+          "package_name": "com.battleshipsproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043468518434-ov0phond2hfio1mhhq5dkts19injm5ut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4lNTyXO5WSGLwH_ema4H3xJVwheI2DN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043468518434-ov0phond2hfio1mhhq5dkts19injm5ut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
